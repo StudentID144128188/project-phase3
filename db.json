@@ -1,0 +1,1184 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Maldives Hurawali",
+      "description": "In the mountains, the resort is in Whistler Village, a neighborhood in Whistler with great shopping. Whistler Village Gondola is a popular area attraction.",
+      "type": "Resort",
+      "price": 1800,
+      "image": [
+        "https://www.planetware.com/wpimages/2021/07/maldives-best-all-inclusive-resorts-hurawalhi-island-resort-villa.jpg",
+        "https://s3.eu-west-1.amazonaws.com/prod.news.product.which.co.uk/news/wp-content/uploads/2020/08/MAIN-villa-with-pool-abroad.jpg",
+        "https://file4.batdongsan.com.vn/2020/06/03/JGcIp0rf/20200603142345-cd52.jpg"
+      ],
+      "address": "5th Avenue, New York, NY 10035, US",
+      "coord": [
+        40.74,
+        -73.98
+      ],
+      "bestSeller": true,
+      "featured": false,
+      "amenities": {
+        "pool": true,
+        "wifi": true,
+        "parking": false,
+        "bathtub": false,
+        "restaurant": true,
+        "breakfast":true,
+        "bar": true,
+        "spa": true,
+        "gym": false
+      },
+      "rules": {
+        "pet": true,
+        "smoke": false
+      },
+      "star": 3,
+      "comments": {
+        "convenient": 13,
+        "quiet": 20,
+        "walkable": 34,
+        "safe": 51,
+        "transportation": 14,
+        "rating": 9.1,
+        "total": 78
+      }
+    },
+    {
+      "id": 2,
+      "title": "Villa du Sud",
+      "description": "Villa du Sud is located in Blackcomb, a neighborhood in Whistler, and is next to a golf course. Whistler Blackcomb Ski Resort and bubly Tube Park are worth checking out.",
+      "type": "Villa",
+      "price": 2000,
+      "image": [
+        "https://www.villasud.com/static/temp/9/4a378c24337d695b5f31abb3ae10137629c7397b.jpg",
+        "https://phuquoc.crowneplaza.com/wp-content/uploads/2021/06/B1118742.jpg",
+        "https://file4.batdongsan.com.vn/2020/06/03/JGcIp0rf/20200603142344-7089.jpg"
+      ],
+      "address": "Tyrell Lane, Barber, Perth Amboy, NJ 07077, US",
+      "coord": [
+        40.53,
+        -74.25
+      ],
+      "bestSeller": true,
+      "featured": false,
+      "amenities": {
+        "pool": true,
+        "wifi": true,
+        "parking": true,
+        "bathtub": true,
+        "restaurant": false,
+        "breakfast":false,
+        "bar": false,
+        "spa": true,
+        "gym": false
+      },
+      "rules": {
+        "pet": true,
+        "smoke": false
+      },
+      "star": 4,
+      "comments": {
+        "convenient": 35,
+        "quiet": 30,
+        "walkable": 38,
+        "safe": 30,
+        "transportation": 25,
+        "rating": 8.3,
+        "total": 81
+      }
+    },
+    {
+      "id": 3,
+      "title": "AhStatic hotel",
+      "description": "The Hotel is in Whistler Village, a neighborhood in Whistler with good shopping. Whistler Blackcomb Ski Resort and Whistler Golf Club are worth checking out if an activity is on the agend.",
+      "type": "Hotel",
+      "price": 1200,
+      "image": [
+        "https://s7d2.scene7.com/is/image/ritzcarlton/50536641-Royal%20Suite%202?$XlargeViewport100pct$",
+        "https://thoibaonganhang.vn/stores/news_dataimages/minhvl/112021/26/10/2810_TBNH_01_Copy.jpg",
+        "https://m.wsj.net/video/20211210/121321seychelles/121321seychelles_960x540.jpg"
+      ],
+      "address": "McCraney No. 282, SK S0G 2N0, Canada",
+      "coord": [
+        51.50077,
+        -106.27504
+      ],
+      "bestSeller": false,
+      "featured": true,
+      "amenities": {
+        "pool": false,
+        "wifi": true,
+        "parking": false,
+        "bathtub": false,
+        "restaurant": true,
+        "breakfast":false,
+        "bar": true,
+        "spa": true,
+        "gym": true
+      },
+      "rules": {
+        "pet": true,
+        "smoke": false
+      },
+      "star": 3,
+      "comments": {
+        "convenient": 30,
+        "quiet": 26,
+        "walkable": 27,
+        "safe": 39,
+        "transportation": 25,
+        "rating": 8.9,
+        "total": 88
+      }
+    },
+    {
+      "id": 4,
+      "title": "Happy Condo",
+      "description": "See what's going on at Royal LePage Place or Prospera Place. Enjoy the area's slopes with cross-country skiing and downhill skiing, and don't miss out on the snowshoeing and snow tubing.",
+      "type": "Condo",
+      "price": 1000,
+      "image": [
+        "https://images.rentals.ca/property-pictures/large/north-york-on/416489/apartment-5877495.jpg",
+        "https://www.coorgcliffsresort.com/images/rooms/coorg-cliffs-room-9-v1.jpg",
+        "https://www.coorgcliffsresort.com/images/rooms/coorg-cliffs-room-6.jpg"
+      ],
+      "address": "Clifton Street, Winnipeg, MB R3E 3R3, Canada",
+      "coord": [
+        49.90348432383831,
+        -97.18552605158943
+      ],
+      "bestSeller": false,
+      "featured": true,
+      "amenities": {
+        "pool": false,
+        "wifi": true,
+        "parking": true,
+        "bathtub": true,
+        "restaurant": false,
+        "breakfast":false,
+        "bar": false,
+        "spa": false,
+        "gym": true
+      },
+      "rules": {
+        "pet": false,
+        "smoke": false
+      },
+      "star": 3,
+      "comments": {
+        "convenient": 31,
+        "quiet": 27,
+        "walkable": 39,
+        "safe": 39,
+        "transportation": 36,
+        "rating": 9.2,
+        "total": 79
+      }
+    },
+    {
+      "id": 5,
+      "title": "Hilton Lagoon Island",
+      "description": "Hilton Lagoon Resort is on a lake. Traveling with kids? Consider Ridge Runner Mountain Coaster and Plunge Aquatic Center. Take in the nearby slopes with cross-country skiing and downhill skiing.",
+      "type": "Resort",
+      "price": 2900,
+      "image": [
+        "https://dreamvalleyresorts.com/wp-content/uploads/2019/03/luxurious.jpg",
+        "https://www.casadecampo.com.do/wp-content/uploads/2019/06/Costa-Mar-Oceanfront-Villa.jpg",
+        "https://www.casadecampo.com.do/wp-content/uploads/2019/04/Costa-Mar-10-exclusive.jpg"
+      ],
+      "address": "218 Ottawa Street, Regina, SK S4R 8P2, Canada",
+      "coord": [
+        50.47921730112709,
+        -104.60112381118306
+      ],
+      "bestSeller": true,
+      "featured": false,
+      "amenities": {
+        "pool": true,
+        "wifi": true,
+        "parking": true,
+        "bathtub": true,
+        "restaurant": true,
+        "breakfast":false,
+        "bar": true,
+        "spa": false,
+        "gym": false
+      },
+      "rules": {
+        "pet": true,
+        "smoke": false
+      },
+      "star": 5,
+      "comments": {
+        "convenient": 34,
+        "quiet": 27,
+        "walkable": 28,
+        "safe": 26,
+        "transportation": 33,
+        "rating": 8.8,
+        "total": 108
+      }
+    },
+    {
+      "id": 6,
+      "title": "Cove Lakeside",
+      "description": "The Cove Lakeside Resort is located in Westbank, a neighborhood in West Kelowna, and is in the suburbs and on a private beach. Looking to enjoy an event or a game?",
+      "type": "Resort",
+      "price": 2800,
+      "image": [
+        "https://www.beaches.com/blog/content/images/2021/03/Beaches-Turks-Caicos-Overview.jpg",
+        "https://photos.jamaicavillas.com/photos/isolevillas_01-1.jpg",
+        "https://seavilla.vn/wp-content/uploads/2020/02/villa-vung-tau-2.jpg"
+      ],
+      "address": "Deerfoot Trail SE, Calgary, AB T2B 2P6, Canada",
+      "coord": [
+        51.01362142048251,
+        -114.007831118203
+      ],
+      "bestSeller": false,
+      "featured": true,
+      "amenities": {
+        "pool": true,
+        "wifi": true,
+        "parking": true,
+        "bathtub": true,
+        "restaurant": true,
+        "breakfast":true,
+        "bar": true,
+        "spa": false,
+        "gym": false
+      },
+      "rules": {
+        "pet": true,
+        "smoke": true
+      },
+      "star": 4,
+      "comments": {
+        "convenient": 29,
+        "quiet": 35,
+        "walkable": 28,
+        "safe": 33,
+        "transportation": 32,
+        "rating": 9.2,
+        "total": 91
+      }
+    },
+    {
+      "id": 7,
+      "title": "Lizard Creek Lodge",
+      "description": "Located in Fernie, Lizard Creek Lodge is in the mountains. Enjoy the area's slopes with skiing lessons and skiing, and don't miss out on the snowmobiling and snowshoeing.",
+      "type": "Villa",
+      "price": 1200,
+      "image": [
+        "https://homes-and-villas.marriott.com/assets/images/Tile_HomesWithPools_Desktop_324x182.jpg",
+        "https://static.abc.es/media/MM/2020/06/23/1_resort_megalujo_fiji-k8U--1313x900@abc.jpg",
+        "https://r1imghtlak.mmtcdn.com/ea322006075411ec9eed0a58a9feac02.jpg?&output-quality=75&downsize=910:612&crop=910:612;3,0&output-format=jpg"
+      ],
+      "address": "Kananaskis Improvement District, AB, Canada",
+      "coord": [
+        50.62669008818187,
+        -115.19704969200383
+      ],
+      "bestSeller": false,
+      "featured": true,
+      "amenities": {
+        "pool": true,
+        "wifi": true,
+        "parking": true,
+        "bathtub": true,
+        "restaurant": false,
+        "breakfast":true,
+        "bar": true,
+        "spa": false,
+        "gym": false
+      },
+      "rules": {
+        "pet": true,
+        "smoke": true
+      },
+      "star": 4,
+      "comments": {
+        "convenient": 34,
+        "quiet": 23,
+        "walkable": 21,
+        "safe": 24,
+        "transportation": 19,
+        "rating": 8.7,
+        "total": 81
+      }
+    },
+    {
+      "id": 8,
+      "title": "Alberta Centurion",
+      "description": "Located in Sun Peaks, Alberta Centurion Villa is in the mountains. Take in the nearby slopes with cross-country skiing and downhill skiing, or check out other outdoor activities.",
+      "type": "Villa",
+      "price": 2500,
+      "image": [
+        "https://media.vrbo.com/lodging/34000000/33650000/33645800/33645792/3603e7fb.c10.jpg",
+        "https://www.thegari.in/blog/wp-content/uploads/2020/10/pexels-media-1134176-scaled.jpeg",
+        "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/27/87/2787766_v1.jpeg"
+      ],
+      "address": "Area D (Lardeau Valley/Duncan Lake), BC, Canada",
+      "coord": [
+        50.13439770245167,
+        -116.5233993676592
+      ],
+      "bestSeller": false,
+      "featured": false,
+      "amenities": {
+        "pool": true,
+        "wifi": true,
+        "parking": true,
+        "bathtub": true,
+        "restaurant": true,
+        "breakfast":true,
+        "bar": true,
+        "spa": false,
+        "gym": false
+      },
+      "rules": {
+        "pet": true,
+        "smoke": true
+      },
+      "star": 3,
+      "comments": {
+        "convenient": 35,
+        "quiet": 37,
+        "walkable": 38,
+        "safe": 44,
+        "transportation": 40,
+        "rating": 8.8,
+        "total": 94
+      }
+    },
+    {
+      "id": 9,
+      "title": "Cavill Vanilla",
+      "description": "Located in Kamloops, Cavill Vanilla is in a rural area and on the waterfront. Sagebrush Theatre and Kamloops Museum and Archives are cultural highlights.",
+      "type": "Villa",
+      "price": 1000,
+      "image": [
+        "https://assets.savills.com/properties/US0001L14521/01_l_gal.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/3f/b5/ff/hudson-hotels-resorts.jpg?w=900&h=-1&s=1s",
+        "https://www.krabichada.com/uploads/cms_apps/imagenes/krabichadabackground.jpg"
+      ],
+      "address": "Wishbone Trail, Improvement District No. 04, AB T0K 2M0, Canada",
+      "coord": [
+        49.064146424704546,
+        -113.85022637966166
+      ],
+      "bestSeller": true,
+      "featured": false,
+      "amenities": {
+        "pool": true,
+        "wifi": true,
+        "parking": true,
+        "bathtub": true,
+        "restaurant": false,
+        "breakfast":false,
+        "bar": false,
+        "spa": true,
+        "gym": false
+      },
+      "rules": {
+        "pet": true,
+        "smoke": true
+      },
+      "star": 5,
+      "comments": {
+        "convenient": 26,
+        "quiet": 28,
+        "walkable": 32,
+        "safe": 36,
+        "transportation": 42,
+        "rating": 8.9,
+        "total": 72
+      }
+    },
+    {
+      "id": 10,
+      "title": "The Mansion",
+      "description": "Located in Castle Junction, The Mansion is in the mountains and in a national park. Take in the nearby slopes with cross-country skiing and skiing.",
+      "type": "Resort",
+      "price": 1500,
+      "image": [
+        "https://img.jamesedition.com/listing_images/2021/03/22/16/45/37/9e65ecef-d25b-425a-887d-6150b350262e/je/1040x620xc.jpg",
+        "https://images.rosewoodhotels.com/is/image/rwhg/heroshot-punta-bonita-pool-and-beach-1",
+        "https://l.icdbcdn.com/oh/ce1e40a3-a138-4a87-89fe-700af5a63fc1.jpg?w=2080"
+      ],
+      "address": "Trans-Canada Highway, Suffield, AB T0J 2P0, Canada",
+      "coord": [
+        50.21569297580298,
+        -111.14758999618779
+      ],
+      "bestSeller": true,
+      "featured": false,
+      "amenities": {
+        "pool": true,
+        "wifi": true,
+        "parking": true,
+        "bathtub": true,
+        "restaurant": true,
+        "breakfast":false,
+        "bar": false,
+        "spa": false,
+        "gym": true
+      },
+      "rules": {
+        "pet": false,
+        "smoke": false
+      },
+      "star": 5,
+      "comments": {
+        "convenient": 30,
+        "quiet": 36,
+        "walkable": 22,
+        "safe": 26,
+        "transportation": 21,
+        "rating": 8.6,
+        "total": 69
+      }
+    },
+    {
+      "id": 11,
+      "title": "The Cabelas Retreat",
+      "description": "Along with an outdoor pool, this smoke-free villa has a fitness center and a spa tub. Free WiFi in public areas and free self parking are also provided.",
+      "type": "Villa",
+      "price": 2500,
+      "image": [
+        "https://www.losflamingos.co.uk/property_pictures/target_1638_1768226625.jpg",
+        "https://cf.bstatic.com/xdata/images/hotel/max1280x900/116491987.jpg?k=7450798a3c4b448839e23b33735cf57bffdbbb978fe7fa7386bbe63eedc09530&o=&hp=1",
+        "https://new-hls.s3.amazonaws.com/hls/data/4767/website/general/bn/normal_slide-04.jpg"
+      ],
+      "address": "14 Rue du Val lon, Cantley, QC J8N 4B7, Canada",
+      "coord": [
+        45.61868225799533,
+        -75.81758200363629
+      ],
+      "bestSeller": false,
+      "featured": false,
+      "amenities": {
+        "pool": true,
+        "wifi": true,
+        "parking": true,
+        "bathtub": true,
+        "restaurant": true,
+        "breakfast":false,
+        "bar": false,
+        "spa": false,
+        "gym": true
+      },
+      "rules": {
+        "pet": true,
+        "smoke": true
+      },
+      "star": 5,
+      "comments": {
+        "convenient": 29,
+        "quiet": 26,
+        "walkable": 30,
+        "safe": 31,
+        "transportation": 22,
+        "rating": 9.4,
+        "total": 72
+      }
+    },
+    {
+      "id": 12,
+      "title": "La Fuente Marbella",
+      "description": "Located in Tofino, La Fuente Marbella is in the city center and on the waterfront. Discover the area's water adventures with kayaking and windsurfing nearby.",
+      "type": "Villa",
+      "price": 2200,
+      "image": [
+        "https://lafuente.marbella-ev.com/wp-content/uploads/sites/2/2020/11/villas.jpg",
+        "https://cdn.villa-bali.com/cache/fullSize/villas/marys-beach-villa/marys-beach-villa-dsc-0942-584ff9269bb83.JPG",
+        "https://new-hls.s3.amazonaws.com/hls/data/4767/website/general/bn/mobile_slide-02.jpg"
+      ],
+      "address": "17 Kimberly Street, Fredericton, NB E3A 8V4, Canada",
+      "coord": [
+        45.996437750846944,
+        -66.65505678248458
+      ],
+      "bestSeller": true,
+      "featured": false,
+      "amenities": {
+        "pool": true,
+        "wifi": true,
+        "parking": true,
+        "bathtub": true,
+        "restaurant": false,
+        "breakfast":false,
+        "bar": true,
+        "spa": false,
+        "gym": false
+      },
+      "rules": {
+        "pet": true,
+        "smoke": true
+      },
+      "star": 5,
+      "comments": {
+        "convenient": 33,
+        "quiet": 37,
+        "walkable": 30,
+        "safe": 31,
+        "transportation": 36,
+        "rating": 8.5,
+        "total": 83
+      }
+    },
+    {
+      "id": 13,
+      "title": "The Blue Pearl",
+      "description": "Located in Moncton, The Blue Pearl is near theme parks. Magnetic Hill and Mapleton Park reflect the area's natural beauty and area attractions.",
+      "type": "Villa",
+      "price": 2700,
+      "image": [
+        "https://villamarina34.com/assets/images/-mg-4708-hdr-edit-2000x1333.jpg",
+        "https://pix10.agoda.net/hotelImages/290/290666/290666_14021507590018349604.jpg?ca=2&ce=1&s=1024x768",
+        "https://pix10.agoda.net/hotelImages/241416/-1/e6abf0c13290ae3b97514338521c442f.jpg?ca=9&ce=1&s=1024x768"
+      ],
+      "address": "105 Altavista Lane, Halifax, NS, Canada",
+      "coord": [
+        44.641263927936784,
+        -63.62727795033262
+      ],
+      "bestSeller": false,
+      "featured": false,
+      "amenities": {
+        "pool": true,
+        "wifi": true,
+        "parking": true,
+        "bathtub": true,
+        "restaurant": true,
+        "breakfast":false,
+        "bar": true,
+        "spa": false,
+        "gym": false
+      },
+      "rules": {
+        "pet": false,
+        "smoke": false
+      },
+      "star": 5,
+      "comments": {
+        "convenient": 20,
+        "quiet": 30,
+        "walkable": 19,
+        "safe": 23,
+        "transportation": 35,
+        "rating": 8.2,
+        "total": 64
+      }
+    },
+    {
+      "id": 14,
+      "title": "The King Century",
+      "description": "Located on a private beach, The King Century is in South Pandosy, a neighborhood in Kelowna. Okanagan Heritage Museum and Okanagan Military Museum are cultural highlights.",
+      "type": "Villa",
+      "price": 2600,
+      "image": [
+        "https://seavilla.vn/wp-content/uploads/2020/02/villa-vung-tau-1.jpg",
+        "https://www.trulyclassy.com/wp-content/uploads/2019/05/villa-padma-phuket-featured-1.jpg",
+        "https://images.squarespace-cdn.com/content/v1/585562bcbe659442d503893f/c3b765c0-45e3-46b3-9ff9-b4101fb30674/01.+Exotik+Villas+Bali+-+Aloui.jpg"
+      ],
+      "address": "Bybee, Rivière-Nipissis, QC, Canada",
+      "coord": [
+        51.0844023472748,
+        -65.7881933342398
+      ],
+      "bestSeller": false,
+      "featured": false,
+      "amenities": {
+        "pool": true,
+        "wifi": true,
+        "parking": true,
+        "bathtub": true,
+        "restaurant": false,
+        "breakfast":true,
+        "bar": true,
+        "spa": false,
+        "gym": false
+      },
+      "rules": {
+        "pet": true,
+        "smoke": true
+      },
+      "star": 5,
+      "comments": {
+        "convenient": 29,
+        "quiet": 37,
+        "walkable": 28,
+        "safe": 34,
+        "transportation": 10,
+        "rating": 8.5,
+        "total": 76
+      }
+    },
+    {
+      "id": 15,
+      "title": "Canada Special Rex",
+      "description": "Canada Special Rex Resort is in a rural area and near the beach. Travelers eager for a bit of culture can stop by Ross Memorial Museum. Don't miss Huntsman Marine Science Centre.",
+      "type": "Resort",
+      "price": 2900,
+      "image": [
+        "https://www.remotelands.com/travelogues/app/uploads/2018/04/header-indonesia-resort.jpg",
+        "https://samujana.com/wp-content/uploads/2016/10/7-1280x853.jpg",
+        "https://samujana.com/wp-content/uploads/2020/09/Villa-Exterior-1280x852.jpg"
+      ],
+      "address": "Montee de la Cabane, Quebec City, QC G3B 0W1, Canada",
+      "coord": [
+        46.92961433998304,
+        -71.27931429702876
+      ],
+      "bestSeller": true,
+      "featured": false,
+      "amenities": {
+        "pool": true,
+        "wifi": true,
+        "parking": false,
+        "bathtub": true,
+        "restaurant": false,
+        "breakfast":false,
+        "bar": false,
+        "spa": true,
+        "gym": true
+      },
+      "rules": {
+        "pet": true,
+        "smoke": false
+      },
+      "star": 3,
+      "comments": {
+        "convenient": 20,
+        "quiet": 19,
+        "walkable": 15,
+        "safe": 38,
+        "transportation": 35,
+        "rating": 8.7,
+        "total": 62
+      }
+    },
+    {
+      "id": 16,
+      "title": "La Casa Loma",
+      "description": "Located in Campbell River, La Casa Loma is near the beach. Storey Creek Golf Course and Discovery Pier are worth checking out if an activity is on the agenda.",
+      "type": "Villa",
+      "price": 2900,
+      "image": [
+        "https://media.inmobalia.com/imgV1/B98Le8~d7M9k3DegigWkzHXQlgzMFGqGJJp6ZRUcpX033lqadFBp2i4GGW4X2J1jIJ9Pwc6GsJX5cPSdaZsIbALPEM28bUCNiBQfUC__IZ_90qYcSeFvO4R69LV2IVpVqsx4tZFheRYFARLaBufb9ZYHXEn1PlAB_yxTdDHgg1GHRLkylhd48tUWE8gdkyr_K130LQXzd4bVx6bbCqKKzJtv4XBnKXcB~M8HXgXn_My5BedxWZEI98piNeu9FdJf8ZYO3_ai9L26TyQtzS0xgHX5Bu3igh59_~auJRE7tuSwsPn60~eh1Y9r6t4gIA--.jpg",
+        "https://www.sitgeshillsvillas.com/wp-content/uploads/2020/12/Villa-Miami-main-image.jpg",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/270955089.jpg?k=fcf57c834356c40fb4cab522055772b8827ad78c40ab3d7217f62441fb2574ed&o=&hp=1"
+      ],
+      "address": "Lake of Bays Township, ON, Canada",
+      "coord": [
+        45.41880252626769,
+        -78.87830227449314
+      ],
+      "bestSeller": false,
+      "featured": false,
+      "amenities": {
+        "pool": true,
+        "wifi": true,
+        "parking": true,
+        "bathtub": true,
+        "restaurant": false,
+        "breakfast":true,
+        "bar": true,
+        "spa": false,
+        "gym": false
+      },
+      "rules": {
+        "pet": false,
+        "smoke": true
+      },
+      "star": 4,
+      "comments": {
+        "convenient": 24,
+        "quiet": 19,
+        "walkable": 28,
+        "safe": 23,
+        "transportation": 15,
+        "rating": 8.6,
+        "total": 65
+      }
+    },
+    {
+      "id": 17,
+      "title": "Hôtel Quintessence",
+      "description": "Located in Mont-Tremblant, Hôtel Quintessence is near the airport and on a lake. See what's going on at Circuit Mont-Tremblant. Don't miss Huntsman Marine Science Centre.",
+      "type": "Hotel",
+      "price": 1900,
+      "image": [
+        "https://www.ahstatic.com/photos/5451_ho_00_p_1024x768.jpg",
+        "https://www.hospitalitynet.org/picture/xxl_153090176.jpg?t=1528368571",
+        "https://s3-ap-southeast-1.amazonaws.com/blog-ph/wp-content/uploads/2016/08/12091701/beautiful-hotel-room-dailymail.jpg"
+      ],
+      "address": "Lac-des-Dix-Milles, QC, Canada",
+      "coord": [
+        46.4244958437443,
+        -74.36352009460214
+      ],
+      "bestSeller": false,
+      "featured": false,
+      "amenities": {
+        "pool": true,
+        "wifi": true,
+        "parking": true,
+        "bathtub": true,
+        "restaurant": true,
+        "breakfast":false,
+        "bar": false,
+        "spa": true,
+        "gym": false
+      },
+      "rules": {
+        "pet": false,
+        "smoke": true
+      },
+      "star": 5,
+      "comments": {
+        "convenient": 34,
+        "quiet": 27,
+        "walkable": 28,
+        "safe": 33,
+        "transportation": 24,
+        "rating": 9.1,
+        "total": 72
+      }
+    },
+    {
+      "id": 18,
+      "title": "Hotel Garden Groove",
+      "description": "Located in Halfmoon Bay, Hotel Garden Groove is in a rural area and on the beach. Baker Beach Park and Pender Harbour Golf Club are worth checking out.",
+      "type": "Hotel",
+      "price": 1000,
+      "image": [
+        "https://s7d2.scene7.com/is/image/ritzcarlton/RCMNTRL_00063_conversion?$XlargeViewport100pct$",
+        "http://cdn.cnn.com/cnnnext/dam/assets/140127103345-peninsula-shanghai-deluxe-mock-up.jpg",
+        "https://www.jetsetter.com//uploads/sites/7/2018/04/GWUBBgOP-1380x1035.jpeg"
+      ],
+      "address": "118 Boulevard de l'Union, Longueuil, QC J4R 2J4, Canada",
+      "coord": [
+        45.49534876482325,
+        -73.50997250233974
+      ],
+      "bestSeller": true,
+      "featured": false,
+      "amenities": {
+        "pool": true,
+        "wifi": true,
+        "parking": false,
+        "bathtub": true,
+        "restaurant": false,
+        "breakfast":true,
+        "bar": true,
+        "spa": true,
+        "gym": true
+      },
+      "rules": {
+        "pet": false,
+        "smoke": false
+      },
+      "star": 4,
+      "comments": {
+        "convenient": 34,
+        "quiet": 17,
+        "walkable": 18,
+        "safe": 33,
+        "transportation": 15,
+        "rating": 8.8,
+        "total": 63
+      }
+    },
+    {
+      "id": 19,
+      "title": "Victoria Secret Hotel",
+      "description": "Victoria Secret Hotel is located in Dysart et al. The area's natural beauty can be seen at Algonquin Provincial Park and High Falls. Don't miss Huntsman Marine Science Centre.",
+      "type": "Hotel",
+      "price": 900,
+      "image": [
+        "https://s7d2.scene7.com/is/image/ritzcarlton/50536607-One%20Bedroom%20Suite%202?$XlargeViewport100pct$",
+        "https://www.gannett-cdn.com/-mm-/05b227ad5b8ad4e9dcb53af4f31d7fbdb7fa901b/c=0-64-2119-1259/local/-/media/USATODAY/USATODAY/2014/08/13/1407953244000-177513283.jpg",
+        "https://i.pinimg.com/originals/30/6a/f3/306af3bc7c6ab631736ee2a660f28a3f.jpg"
+      ],
+      "address": "Blair / Davidson, Blair Road, (Old) Ottawa, ON K1J 6N5, Canada",
+      "coord": [
+        45.44970813545787,
+        -75.61720988303061
+      ],
+      "bestSeller": false,
+      "featured": false,
+      "amenities": {
+        "pool": false,
+        "wifi": true,
+        "parking": true,
+        "bathtub": false,
+        "restaurant": true,
+        "breakfast":false,
+        "bar": false,
+        "spa": false,
+        "gym": true
+      },
+      "rules": {
+        "pet": false,
+        "smoke": false
+      },
+      "star": 4,
+      "comments": {
+        "convenient": 34,
+        "quiet": 17,
+        "walkable": 18,
+        "safe": 33,
+        "transportation": 26,
+        "rating": 8.7,
+        "total": 75
+      }
+    },
+    {
+      "id": 20,
+      "title": "Exotic Condos",
+      "description": "Highlights Include: Hardwood Floor, Crown Moulding, High Ceiling, Richly Panelled Library, 24/7 Security, Valet Parking. Amenities Include: Indoor Pool, Parking, Bar Club, etc.",
+      "type": "Condo",
+      "price": 500,
+      "image": [
+        "https://images.rentals.ca/property-pictures/large/north-york-on/416489/apartment-5877495.jpg",
+        "https://images1.apartments.com/i2/AuCl5Kbqph-BlEWF2h8znHdGzBugt_iFDPTMSXsfL8c/111/image.jpg",
+        "https://s3.amazonaws.com/lws_lift/homestead/images/gallery/1152/1478705904_welcome_to_99_range_rd-print-011-4-600_7011-2284x1525-300dpi.jpg"
+      ],
+      "address": "2156 Rue Rachel, Saguenay, QC G7K 1A3, Canada",
+      "coord": [
+        48.43178126439813,
+        -71.13372134527313
+      ],
+      "bestSeller": true,
+      "featured": false,
+      "amenities": {
+        "pool": true,
+        "wifi": true,
+        "parking": true,
+        "bathtub": false,
+        "restaurant": false,
+        "breakfast":false,
+        "bar": true,
+        "spa": false,
+        "gym": true
+      },
+      "rules": {
+        "pet": false,
+        "smoke": false
+      },
+      "star": 3,
+      "comments": {
+        "convenient": 30,
+        "quiet": 19,
+        "walkable": 28,
+        "safe": 32,
+        "transportation": 35,
+        "rating": 9.3,
+        "total": 78
+      }
+    },
+    {
+      "id": 21,
+      "title": "Peace of Mind Condos",
+      "description": "Luxury Living!!! Spectacular Location!!Festival Tower-Freeman Layouts At 2289 Sq Living Space+403 Sf Balcony. 2 Bdrm+Den. 12' Ft Smooth Finish Ceilings, Miele Appliances.",
+      "type": "Condo",
+      "price": 900,
+      "image": [
+        "https://media.blogto.com/uploads/2018/05/15/20180515-luxurycondos-body.jpg?cmd=resize&quality=70&w=1400&height=2500",
+        "https://www.capreit.ca/wp-content/uploads/2021/09/South-Garden-Apartments-North-York-ON-Home-Office.jpg",
+        "https://images.rentals.ca/property-pictures/medium/regina-sk/527760/apartment-5910373.jpg"
+      ],
+      "address": "Cassandra Court, Greater Sudbury, ON P3A 4V4, Canada",
+      "coord": [
+        46.53004678072929,
+        -80.96439306127937
+      ],
+      "bestSeller": false,
+      "featured": false,
+      "amenities": {
+        "pool": false,
+        "wifi": true,
+        "parking": true,
+        "bathtub": true,
+        "restaurant": false,
+        "breakfast":false,
+        "bar": false,
+        "spa": true,
+        "gym": true
+      },
+      "rules": {
+        "pet": false,
+        "smoke": false
+      },
+      "star": 3,
+      "comments": {
+        "convenient": 35,
+        "quiet": 32,
+        "walkable": 39,
+        "safe": 39,
+        "transportation": 12,
+        "rating": 8.9,
+        "total": 81
+      }
+    },
+    {
+      "id": 22,
+      "title": "Rex Lagoon Condos",
+      "description": "This Is The One. The Tower That Changes Everything. This Serene Full-Floor Residence Offers 8, 752 Square Feet Of Living Space. Sleek Interiors Of Marble And Wood. Opulent Metallic Tones.",
+      "type": "Condo",
+      "price": 800,
+      "image": [
+        "https://viewthevibe.com/wp-content/uploads/2019/06/Copy-of-4004-300-Front_4.jpg",
+        "https://torontolife.com/wp-content/uploads/2017/05/toronto-apartment-for-rent-180-university-avenue-1.jpg",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280139495.jpg?k=01eb71827f42bebda04ed79963bf5cc6f79fe1af9908205201bfb97a1793a578&o=&hp=1"
+      ],
+      "address": "2156 Rue Rachel, Saguenay, QC G7K 1A3, Canada",
+      "coord": [
+        48.43178126439813,
+        -71.13372134527313
+      ],
+      "bestSeller": true,
+      "featured": false,
+      "amenities": {
+        "pool": false,
+        "wifi": true,
+        "parking": true,
+        "bathtub": true,
+        "restaurant": false,
+        "breakfast":false,
+        "bar": true,
+        "spa": false,
+        "gym": true
+      },
+      "rules": {
+        "pet": false,
+        "smoke": false
+      },
+      "star": 3,
+      "comments": {
+        "convenient": 32,
+        "quiet": 18,
+        "walkable": 16,
+        "safe": 37,
+        "transportation": 19,
+        "rating": 9.1,
+        "total": 70
+      }
+    },
+    {
+      "id": 23,
+      "title": "Jean Zay Residence",
+      "description": "This Is A Lifestyle!! Enjoy Exclusive Amenities Including Fitness Rm W/ Yoga Studio & Sauna, Party Rm W/Bar, Outdoor Pool, Sun Deck, Bbq, Area, Guest Suites & 24 Hour Concierge.",
+      "type": "Apartment",
+      "price": 500,
+      "image": [
+        "https://images.ctfassets.net/pg6xj64qk0kh/2r4QaBLvhQFH1mPGljSdR9/39b737d93854060282f6b4a9b9893202/camden-paces-apartments-buckhead-ga-terraces-living-room-with-den_1.jpg",
+        "https://images.rentals.ca/property-pictures/medium/nepean-on/377863/private-room-3001124.jpg",
+        "https://s3.amazonaws.com/lws_lift/clvgroup/images/gallery/768/1570645680_img_7201_web.jpg"
+      ],
+      "address": "Val-d'Or, QC, Canada",
+      "coord": [
+        48.11313243521297,
+        -77.73374692608017
+      ],
+      "bestSeller": false,
+      "featured": true,
+      "amenities": {
+        "pool": false,
+        "wifi": true,
+        "parking": true,
+        "bathtub": true,
+        "restaurant": false,
+        "breakfast":false,
+        "bar": false,
+        "spa": true,
+        "gym": false
+      },
+      "rules": {
+        "pet": false,
+        "smoke": false
+      },
+      "star": 4,
+      "comments": {
+        "convenient": 28,
+        "quiet": 23,
+        "walkable": 16,
+        "safe": 37,
+        "transportation": 25,
+        "rating": 8.6,
+        "total": 76
+      }
+    },
+    {
+      "id": 24,
+      "title": "Chateaubriand Residence",
+      "description": "Perfect South East 2 Bedroom Unit For Investors Or Downsizers! Enjoy Exclusive Amenities Including Fitness Rm W/ Yoga Studio & Sauna, Party Rm W/Bar, Guest Suites & 24 Hour Concierge.",
+      "type": "Apartment",
+      "price": 500,
+      "image": [
+        "https://scontent.fybz1-1.fna.fbcdn.net/v/t31.18172-8/12010491_722815751185210_1392921523002368760_o.jpg?_nc_cat=109&ccb=1-5&_nc_sid=e3f864&_nc_ohc=I4jC3xbA1CcAX8wOre6&_nc_ht=scontent.fybz1-1.fna&oh=00_AT-4lXRO_iHCRuBvwG8oFT7QphqBR50sD2Q8VhEQdcxpow&oe=623F2A4B",
+        "https://cdngeneralcf.rentcafe.com/dmslivecafe/2/95513/470%20Manhattan%20Duplex%201600x1050.jpg?crop=(0,0,300,196.8750000000005)&cropxunits=300&cropyunits=197&quality=85&scale=both&",
+        "https://images.rentals.ca/property-pictures/medium/ottawa-on/344041/apartment-2436429.jpg"
+      ],
+      "address": "Lac-des-Dix-Milles, QC, Canada",
+      "coord": [
+        46.470906863533806,
+        -74.40582123375277
+      ],
+      "bestSeller": false,
+      "featured": false,
+      "amenities": {
+        "pool": false,
+        "wifi": true,
+        "parking": true,
+        "bathtub": true,
+        "restaurant": false,
+        "breakfast":false,
+        "bar": true,
+        "spa": false,
+        "gym": true
+      },
+      "rules": {
+        "pet": false,
+        "smoke": false
+      },
+      "star": 3,
+      "comments": {
+        "convenient": 39,
+        "quiet": 14,
+        "walkable": 22,
+        "safe": 54,
+        "transportation": 24,
+        "rating": 9.2,
+        "total": 74
+      }
+    },
+    {
+      "id": 25,
+      "title": "Golden Fish Residence",
+      "description": "Spacious Rooms, Huge Master Br. With Walk-In Closet. Excellent Floor Plan. Parquet Floor Throughout. Property Taxes Included In Maintance Fee. Super James Gardens Neighbourhood.",
+      "type": "Apartment",
+      "price": 900,
+      "image": [
+        "https://cdngeneralcf.rentcafe.com/dmslivecafe/2/106197/QuadReal_Bretton_Place_Kitchen_Dining_staged_110618_WEB.jpg?quality=85&scale=both&",
+        "https://www.towersrealty.ca/wp-content/uploads/2020/06/Owen-Apartments-Studio-Apartment-4-of-8-web-scaled.jpg",
+        "https://www.nthapartments.com/wp-content/uploads/HDR-40-e1579681296184.jpg"
+      ],
+      "address": "Bécancour, QC G9H 4T6, Canada",
+      "coord": [
+        46.34619322183671,
+        -72.5109164883782
+      ],
+      "bestSeller": true,
+      "featured": false,
+      "amenities": {
+        "pool": false,
+        "wifi": true,
+        "parking": true,
+        "bathtub": true,
+        "restaurant": false,
+        "breakfast":false,
+        "bar": false,
+        "spa": true,
+        "gym": true
+      },
+      "rules": {
+        "pet": false,
+        "smoke": false
+      },
+      "star": 4,
+      "comments": {
+        "convenient": 32,
+        "quiet": 37,
+        "walkable": 15,
+        "safe": 31,
+        "transportation": 19,
+        "rating": 9.6,
+        "total": 73
+      }
+    },
+    {
+      "id": 26,
+      "title": "Old Sawmills Residence",
+      "description": "A Brand New Boutique Condo Offering World-Class Amenities. A Two Storey, Three-Bedroom Floorplan With An Open Concept Main Floor. Walkout To Your Balcony And Enjoy Your Morning Coffee.",
+      "type": "Apartment",
+      "price": 300,
+      "image": [
+        "https://torontolife.com/wp-content/uploads/2017/01/toronto-condo-for-sale-183-wellington-street-west-4-2000x1333.jpg",
+        "https://www.coorgcliffsresort.com/images/gallery/Coorg-Cliffs_013.jpg",
+        "https://cf.bstatic.com/xdata/images/hotel/max1280x900/248280773.jpg?k=212dc8dca75d269ab2b4120ae5f46b4804b3798d04a96dfd7c03ce2606694a80&o=&hp=1"
+      ],
+      "address": "Drummondville, QC J2C 1E7, Canada",
+      "coord": [
+        45.9123973518028,
+        -72.46185216494959
+      ],
+      "bestSeller": true,
+      "featured": false,
+      "amenities": {
+        "pool": false,
+        "wifi": true,
+        "parking": true,
+        "bathtub": true,
+        "restaurant": false,
+        "breakfast":false,
+        "bar": false,
+        "spa": false,
+        "gym": true
+      },
+      "rules": {
+        "pet": false,
+        "smoke": false
+      },
+      "star": 4,
+      "comments": {
+        "convenient": 24,
+        "quiet": 27,
+        "walkable": 28,
+        "safe": 34,
+        "transportation": 16,
+        "rating": 8.9,
+        "total": 81
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "ttnnguyen1@myseneca.ca",
+      "password": "abcd1234",
+      "firstName": "Thi Thanh Nguyen",
+      "lastName": "Nguyen",
+      "keepSignIn": true,
+      "emailMe": true,
+      "role": "admin"
+    },
+    {
+      "id": 365045,
+      "email": "mitomoticanada@gmail.com",
+      "password": "abcd1234",
+      "firstName": "Jerry",
+      "lastName": "Pham",
+      "keepSignIn": true,
+      "emailMe": false,
+      "role": "user"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "email": "ttnnguyen1@myseneca.ca",
+      "name": "nguyen",
+      "message": "Good service"
+    },
+    {
+      "id": 245951,
+      "email": "mitomoticanada@gmail.com",
+      "name": "Jerry",
+      "message": "Nice experiences"
+    }
+  ]
+}
