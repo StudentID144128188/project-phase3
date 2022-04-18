@@ -34,15 +34,7 @@ const ItemDescription = () => {
     star: 0,
     comments: {}
   });
-  const [comment, setComment] = useState({
-    convenient: 0,
-    quiet: 0,
-    walkable: 0,
-    safe: 0,
-    transportation: 0,
-    rating: 0,
-    total: 0
-  });
+ 
   const initialDate = moment().format("YYYY-MM-DD");
   const [checkIn, setCheckIn] = useState(initialDate);
   const [checkOut, setCheckOut] = useState(initialDate);

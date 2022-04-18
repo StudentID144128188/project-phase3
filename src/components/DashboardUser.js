@@ -1,26 +1,7 @@
-import React, { useState, useEffect } from "react";
-import { useSearchParams } from "react-router-dom";
-import { useNavigate } from 'react-router-dom';
-import { Container } from "react-bootstrap";
-import Image from "react-bootstrap/Image";
-import img from "../assets/images/resort3.webp";
-
+import React from "react";
 import "../assets/css/App.css";
 const DashboardUser = ({ fName, lName, uName, eMail }) => {
-  const navigate = useNavigate();
-  let [searchParams, setSearchParams] = useSearchParams();
-  const [user, setUser] = useState({
-    email: "",
-    password: "",
-    firstName: "",
-    lastName: "",
-    username: "",
-    keepSignIn: false,
-    emailMe: false,
-    role: "",
-  });
-
-    
+   
   return (
     <>
       <section id="db-user-section">

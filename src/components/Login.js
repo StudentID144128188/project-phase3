@@ -20,16 +20,7 @@ const Login = () => {
   const [errorUsername, setErrorUsername] = useState("");
   const [errorPassword, setErrorPassword] = useState("");
   const [errorLogin, setErrorLogin] = useState("");
-  const [user, setUser] = useState({
-    email: "",
-    password: "",
-    firstName: "",
-    lastName: "",
-    username: "",
-    keepSignIn: false,
-    emailMe: false,
-    role: "",
-  });
+
   const validateForm = () => {
     let isValidated = true;
 
@@ -158,10 +149,10 @@ const Login = () => {
                     eMail: obj.body.email }});
                   } else{
                     setErrorLogin("Email and Password not match");
-                    
                   }
                 })
                 .catch((err) => {
+                  setErrorLogin("Email and Password does not match");
                   console.log(`Error: ${err}`);
                 });
               }

@@ -1,7 +1,4 @@
 import React from 'react';
-import { Container } from 'react-bootstrap';
-import Image from "react-bootstrap/Image";
-import img from "../assets/images/resort3.webp";
 
 import "../assets/css/App.css";
 const DashboardAdmin = () => {
