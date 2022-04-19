@@ -64,6 +64,7 @@ const Login = () => {
               value={username}
               onChange={(event) => {
                 setUsername(event.target.value);
+                setErrorUsername("");
               }}
             />
             <span className="error-msg">{errorUsername} </span>
@@ -90,6 +91,7 @@ const Login = () => {
                 value={password}
                 onChange={(event) => {
                   setPassword(event.target.value);
+                  setErrorPassword("");
                 }}
               />
               {!showPass ? (

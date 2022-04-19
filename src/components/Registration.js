@@ -268,7 +268,7 @@ return (
             }
           }}
         >
-          Creation Account
+          Create Account
         </Button>
         <ModalConfirmRegistration
           key={Math.random()}

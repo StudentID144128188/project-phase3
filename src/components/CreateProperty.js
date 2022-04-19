@@ -174,13 +174,14 @@ const CreateProperty = () => {
           <Row>
             <Col className="col-md-4">
               <Form.Group className="mb-3" controlId="formBasicEmail">
-                <Form.Label>Property Name</Form.Label>
+                <Form.Label>Property Name<strong style={{color: "red"}}>*</strong></Form.Label>
                 <Form.Control
                   type="text"
                   placeholder="Property Name"
                   value={name}
                   onChange={(event) => {
                     setName(event.target.value);
+                    setErrorName("");
                   }}
                 />
                 <span className="error-msg">{errorName} </span>
@@ -188,13 +189,14 @@ const CreateProperty = () => {
             </Col>
             <Col className="col-md-8">
               <Form.Group className="mb-3" controlId="formBasicEmail">
-                <Form.Label>Description</Form.Label>
+                <Form.Label>Description<strong style={{color: "red"}}>*</strong></Form.Label>
                 <Form.Control
                   type="text"
                   placeholder="Description"
                   value={desc}
                   onChange={(event) => {
                     setDesc(event.target.value);
+                    setErrorDesc("");
                   }}
                 />
                 <span className="error-msg">{errorDesc} </span>
@@ -204,13 +206,14 @@ const CreateProperty = () => {
           <Row>
             <Col className="col-md-4">
               <Form.Group className="mb-3" controlId="formBasicEmail">
-                <Form.Label>Address</Form.Label>
+                <Form.Label>Address<strong style={{color: "red"}}>*</strong></Form.Label>
                 <Form.Control
                   type="text"
                   placeholder="Address"
                   value={address}
                   onChange={(event) => {
                     setAddress(event.target.value);
+                    setErrorAddress("");
                   }}
                 />
                 <span className="error-msg">{errorAddress} </span>
@@ -218,7 +221,7 @@ const CreateProperty = () => {
             </Col>
             <Col className="col-md-8">
               <Form.Group className="mb-3" controlId="formBasicEmail">
-                <Form.Label>Coordinates</Form.Label>
+                <Form.Label>Coordinates<strong style={{color: "red"}}>*</strong></Form.Label>
                 <Row>
                   <Col>
                     <Form.Control
@@ -227,6 +230,7 @@ const CreateProperty = () => {
                       value={latitude}
                       onChange={(event) => {
                         setLatitude(event.target.value);
+                        setErrorLatitude("");
                       }}
                     />
                     <span className="error-msg">{errorLatitude} </span>
@@ -238,6 +242,7 @@ const CreateProperty = () => {
                       value={longitude}
                       onChange={(event) => {
                         setLongitude(event.target.value);
+                        setErrorLongitude("");
                       }}
                     />
                     <span className="error-msg">{errorLongitude} </span>
@@ -249,12 +254,13 @@ const CreateProperty = () => {
           <Row>
             <Col className="col-md-3">
               <Form.Group className="mb-3" controlId="formBasicEmail">
-                <Form.Label>Property Type</Form.Label>
+                <Form.Label>Property Type<strong style={{color: "red"}}>*</strong></Form.Label>
                 <Form.Select
                   value={type}
                   onChange={(event) => {
                     setType(event.target.value);
                     console.log(event.target.value);
+                    setErrorType("");
                   }}
                 >
                   <option value="">--select type--</option>
@@ -269,13 +275,14 @@ const CreateProperty = () => {
             </Col>
             <Col className="col-md-3">
               <Form.Group className="mb-3" controlId="formBasicEmail">
-                <Form.Label>Price</Form.Label>
+                <Form.Label>Price<strong style={{color: "red"}}>*</strong></Form.Label>
                 <Form.Control
                   type="text"
                   placeholder="Price per night"
                   value={price}
                   onChange={(event) => {
                     setPrice(event.target.value);
+                    setErrorType("");
                   }}
                 />
                 <span className="error-msg">{errorPrice} </span>
@@ -283,7 +290,7 @@ const CreateProperty = () => {
             </Col>
             <Col className="col-md-2">
               <Form.Group className="mb-3" controlId="formBasicEmail">
-                <Form.Label>Star</Form.Label>
+                <Form.Label>Star<strong style={{color: "red"}}>*</strong></Form.Label>
                 <Form.Control
                   type="number"
                   max="5"
@@ -292,6 +299,7 @@ const CreateProperty = () => {
                   value={star}
                   onChange={(event) => {
                     setStar(event.target.value);
+                    setErrorStar("");
                   }}
                 />
                 <span className="error-msg">{errorStar} </span>
@@ -327,7 +335,7 @@ const CreateProperty = () => {
             </Col>
           </Row>
           <Row>
-            <Form.Label>Images</Form.Label>
+            <Form.Label>Images<strong style={{color: "red"}}>*</strong></Form.Label>
             <Col>
               <Form.Group className="mb-3" controlId="formBasicEmail">
                 <Form.Control
@@ -336,6 +344,7 @@ const CreateProperty = () => {
                   value={image1}
                   onChange={(event) => {
                     setImage1(event.target.value);
+                    setErrorImage1("");
                   }}
                 />
                 <span className="error-msg">{errorImage1} </span>
@@ -349,6 +358,7 @@ const CreateProperty = () => {
                   value={image2}
                   onChange={(event) => {
                     setImage2(event.target.value);
+                    setErrorImage2("");
                   }}
                 />
                 <span className="error-msg">{errorImage2} </span>
@@ -358,10 +368,11 @@ const CreateProperty = () => {
               <Form.Group className="mb-3" controlId="formBasicEmail">
                 <Form.Control
                   type="text"
-                  placeholder="Second Image"
+                  placeholder="Third Image"
                   value={image3}
                   onChange={(event) => {
                     setImage3(event.target.value);
+                    setErrorImage3("");
                   }}
                 />
                 <span className="error-msg">{errorImage3} </span>
@@ -417,7 +428,7 @@ const CreateProperty = () => {
                     checked={restaurant}
                     value={restaurant}
                     onChange={(event) => {
-                      setRestaurant(restaurant);
+                      setRestaurant(!restaurant);
                     }}
                   />
               </Form.Group>

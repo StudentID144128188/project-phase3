@@ -55,6 +55,7 @@ const Contact = () => {
             <Form.Label>Email address</Form.Label>
             <Form.Control type="email" placeholder="example@gmail.com" value={email} onChange={(event) => {
               setEmail(event.target.value);
+              setErrorEmail("");
             }} />
             <span className="error-msg">{errorEmail} </span>
           </Form.Group>
@@ -62,6 +63,7 @@ const Contact = () => {
             <Form.Label>Name</Form.Label>
             <Form.Control type="text" placeholder="Enter your last name" value={name} onChange={(event) => {
               setName(event.target.value);
+              setErrorName("");
             }} />
             <span className="error-msg">{errorName} </span>
           </Form.Group>
@@ -69,6 +71,7 @@ const Contact = () => {
             <Form.Label>Message</Form.Label>
             <Form.Control as="textarea" rows={3} value={message} onChange={(event) => {
               setMessage(event.target.value);
+              setErrorMessage("");
             }} />
             <span className="error-msg">{errorMessage} </span>
           </Form.Group>
